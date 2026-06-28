@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 <br />
 <div align="center">
-  <h3 align="center">DATA SCIENCE TEMPLATE</h3>
+  <h3 align="center">MACHINE LEARNING PROJECT TEMPLATE</h3>
 
    A personal, modified template based on the [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) project.
   
@@ -53,9 +53,9 @@
 
 ### 1. Environment Setup
 ```bash
-git clone https://github.com/Lighteldin/data-science-template.git
+git clone https://github.com/Lighteldin/ml-project-template.git
 
-cd data-science-template
+cd ml-project-template
 
 python -m venv venv
 ```
